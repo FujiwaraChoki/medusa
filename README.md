@@ -1,4 +1,4 @@
-# Medusa - DDoS Attack Script to bypass Cloudflare
+# Medusa - DoS Attack Script to bypass Cloudflare
 
 This Python script is designed for conducting a Distributed Denial of Service (DDoS) attack. It utilizes Selenium with undetected_chromedriver to open multiple browser instances and tabs, flooding a target website with requests.
 
