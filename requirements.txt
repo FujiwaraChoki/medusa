@@ -1,0 +1,3 @@
+git+https://github.com/ultrafunkamsterdam/undetected-chromedriver@fix-multiple-instance
+selenium==4.9.1
+termcolor
